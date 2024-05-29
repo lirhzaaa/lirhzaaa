@@ -3,17 +3,17 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-<a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/azhril-nurmaulidan)" alt="LinkedIn" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" />
+<a href="https://www.linkedin.com/in/yourprofile" alt="LinkedIn" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" />
 </a>
 <a href="https://www.instagram.com/yourprofile" alt="Instagram" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
 </a>
 <a href="https://wa.me/yourphonenumber" alt="WhatsApp" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/124/124034.png" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" height="40" />
 </a>
 <a href="link-to-your-cv" download>
-  <img src="https://image.flaticon.com/icons/png/512/136/136514.png" height="40" alt="Download CV" />
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136514.png" height="40" alt="Download CV" />
 </a>
 
 <br />
