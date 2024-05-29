@@ -8,19 +8,18 @@
 <a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
 </a>
-<br><br>
-<a href="link-to-your-cv" download>
-  <button style="height: 40px; margin-left: 10px;">Download CV</button>
-</a>
 
 <br />
 <br />
 
 Hi, I'm Muhammad Azhril Nurmaulidan, a mobile developer from Indonesia.
-
+<br><br>
+<a href="link-to-your-cv" download>
+  <button style="height: 40px; margin-left: 10px;">Download CV</button>
+</a>
 <a href="#"><img align="right" src="https://i.pinimg.com/originals/a3/95/db/a395db5658cf2b8b6794e17c3f573fb1.gif" width="200" height="200" /></a>
 
-Here are some ideas to get you started:
+Here are some facts about me :
 
 - 🏫 I am currently studying at SMK Wikrama Bogor.
 - 🧐 I focus on multi platform application development.
