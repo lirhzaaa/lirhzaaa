@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
 </a>
+<br><br>
 <a href="link-to-your-cv" download>
   <button style="height: 40px; margin-left: 10px;">Download CV</button>
 </a>
