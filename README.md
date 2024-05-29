@@ -3,13 +3,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-<a href="https://www.linkedin.com/in/yourprofile" alt="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/azhril-nurmaulidan" alt="LinkedIn" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" />
 </a>
-<a href="https://www.instagram.com/yourprofile" alt="Instagram" target="_blank">
+<a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
 </a>
-<a href="https://wa.me/yourphonenumber" alt="WhatsApp" target="_blank">
+<a href="62-83805650232" alt="WhatsApp" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" height="40" />
 </a>
 <a href="link-to-your-cv" download>
