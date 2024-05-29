@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Muhammad Azhril Nurmaulidan, a mobile developer from Indonesia.
+I am a mobile developer from Indonesia who has a passion for IT.
 <br><br>
 <a href="link-to-your-cv" download>
   <button style="height: 40px; margin-left: 10px;">Download CV</button>
