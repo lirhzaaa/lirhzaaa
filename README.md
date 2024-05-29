@@ -9,8 +9,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
 </a>
-<a href="link-to-your-cv" download alt="Download CV">
-  <img src="https://cdn-icons-png.flaticon.com/512/136/136514.png" height="40" />
+<a href="link-to-your-cv" download>
+  <button style="height: 40px;">Download CV</button>
 </a>
 
 <br />
