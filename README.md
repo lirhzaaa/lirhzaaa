@@ -9,11 +9,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
 </a>
-<a href="https://web.whatsapp.com/+62 838-0565-0232" alt="WhatsApp" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" height="40" />
-</a>
-<a href="link-to-your-cv" download>
-  <img src="https://cdn-icons-png.flaticon.com/512/136/136514.png" height="40" alt="Download CV" />
+<a href="link-to-your-cv" download alt="Download CV">
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136514.png" height="40" />
 </a>
 
 <br />
@@ -25,7 +22,7 @@ Hi, I'm Muhammad Azhril Nurmaulidan, a mobile developer from Indonesia.
 
 Here are some ideas to get you started:
 
-- 🏫I am currently studying at SMK Wikrama Bogor.
-- 🧐I focus on multi platform application development.
-- 🦾Fun fact: I am male.
-- 🥷Pronoun: Lirhza.
+- 🏫 I am currently studying at SMK Wikrama Bogor.
+- 🧐 I focus on multi platform application development.
+- 🦾 Fun fact: I am male.
+- 🥷 Pronoun: Lirhza.
