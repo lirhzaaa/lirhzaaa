@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Muhammad Azhril Nurmaulidan</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Muhammad Azhril Nurmaulidan</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
 
@@ -8,9 +7,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </a>
 <a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
-</a><br>
+</a>
 <a href="link-to-your-cv" download>
-  <button style="height: 40px;">Download CV</button>
+  <button style="height: 40px; margin-left: 10px;">Download CV</button>
 </a>
 
 <br />
