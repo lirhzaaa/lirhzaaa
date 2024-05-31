@@ -17,7 +17,7 @@ I am a Multi Platform App Development from Indonesia who has a passion for IT.
 <a href="link-to-your-cv" download>
   <button style="height: 40px; margin-left: 10px;">Download CV</button>
 </a>
-<a href="#"><img align="right" src="[https://i.pinimg.com/originals/a3/95/db/a395db5658cf2b8b6794e17c3f573fb1.gif" width="50" height="100" /></a>
+<a href="#"><img align="right" src="https://i.pinimg.com/originals/38/13/76/381376d7659cbf605cb65044062ff2fe.gif" width="200" height="200" /></a>
 
 Here are some facts about me :
 
