@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I am a mobile developer from Indonesia who has a passion for IT.
+I am a Multi Platform App Development from Indonesia who has a passion for IT.
 <br><br>
 <a href="link-to-your-cv" download>
   <button style="height: 40px; margin-left: 10px;">Download CV</button>
