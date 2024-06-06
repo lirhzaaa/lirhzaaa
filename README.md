@@ -14,7 +14,7 @@
 
 I am a Multi Platform App Development from Indonesia who has a passion for IT.
 <br><br>
-<a href="[link-to-your-cv](https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf)" download>
+<a href="https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf" download>
   <button style="height: 40px; margin-left: 10px;">Download CV</button>
 </a>
 
