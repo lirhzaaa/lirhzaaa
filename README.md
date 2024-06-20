@@ -31,3 +31,6 @@ Here are some facts about me :
 - 🧐 I focus on full-stack development.
 - 🦾 Fun fact: I am male.
 - 🥷 Pronoun: Lirhza.
+
+
+©Muhammad Azhril Nurmaulidan
