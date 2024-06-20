@@ -1,23 +1,3 @@
-<style>
-    .styled-button {
-      background-color: #ff0000;
-      color: white;
-      border: none;
-      border-radius: 12px;
-      padding: 10px 20px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-size: 16px;
-      cursor: pointer;
-    }
-    .styled-button:hover {
-      background-color: #cc0000;
-    }
-  </style>
-</head>
-<body>
-
   <h1 align="center">Hi I'm <a href="https://www.blackcater.win/" target="_blank">Muhammad Azhril Nurmaulidan</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
   </h1>
@@ -36,7 +16,22 @@
 
   I am a Multi Platform App Development from Indonesia who has a passion for IT.
   <br><br>
-  <a href="https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf" download>
+  <a class= "    .styled-button {
+      background-color: #ff0000;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .styled-button:hover {
+      background-color: #cc0000;
+    }
+" href="https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf" download>
     <button class="styled-button">Download CV</button>
   </a>
   <a href="https://lirhza.netlify.app/">
