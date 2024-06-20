@@ -1,31 +1,20 @@
-<h1 align="center">Hi I'm <a href="https://www.blackcater.win/" target="_blank">Muhammad Azhril Nurmaulidan</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+# Hi I'm [Muhammad Azhril Nurmaulidan](https://www.blackcater.win/) ![Hi](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
-<br />
-
-<a href="https://www.linkedin.com/in/azhril-nurmaulidan" alt="LinkedIn" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" />
-</a>
-<a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
-</a>
-
-<br />
-<br />
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/azhril-nurmaulidan)
+[![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/devciell/)
 
 I am a Multi Platform App Development from Indonesia who has a passion for IT.
-<br><br>
+
 <a href="https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf" download>
-  <button style="height: 40px; margin-left: 10px;">Download CV</button>
-<br></br>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="Download CV" style="background-color: #ff0000; color: white; border: none; border-radius: 12px; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">
 </a>
 <a href="https://lirhza.netlify.app/">
-  <button style="height: 40px; margin-left: 10px;">Persnal Website</button>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="Personal Website" style="background-color: #ff0000; color: white; border: none; border-radius: 12px; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;">
 </a>
 
+![GIF](https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif)
 
-<a href="#"><img align="right" src="https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif" width="300" height="250" /></a>
-
-Here are some facts about me :
+Here are some facts about me:
 
 - 🏫 I am currently studying at SMK Wikrama Bogor.
 - 🧐 I focus on multi platform application development.
