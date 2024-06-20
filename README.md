@@ -28,6 +28,6 @@ I am a Full-Stack Development from Indonesia who has a passion for IT.
 Here are some facts about me :
 
 - 🏫 I am currently studying at SMK Wikrama Bogor.
-- 🧐 I focus on multi platform application development.
+- 🧐 I focus on full-stack development.
 - 🦾 Fun fact: I am male.
 - 🥷 Pronoun: Lirhza.
