@@ -14,36 +14,14 @@
 
 I am a Multi Platform App Development from Indonesia who has a passion for IT.
 <br><br>
-<a href="https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf" download style="text-decoration: none;">
-  <button style="
-      background-color: #ff0000;
-      color: white;
-      border: none;
-      border-radius: 12px;
-      padding: 10px 20px;
-      text-align: center;
-      display: inline-block;
-      font-size: 16px;
-      cursor: pointer;
-      height: 40px;
-      margin-left: 10px;
-      ">Download CV</button>
+<a href="https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf" download>
+  <button style="height: 40px; margin-left: 10px;">Download CV</button>
+<br></br>
 </a>
-<a href="https://lirhza.netlify.app/" style="text-decoration: none;">
-  <button style="
-      background-color: #ff0000;
-      color: white;
-      border: none;
-      border-radius: 12px;
-      padding: 10px 20px;
-      text-align: center;
-      display: inline-block;
-      font-size: 16px;
-      cursor: pointer;
-      height: 40px;
-      margin-left: 10px;
-      ">Personal Website</button>
+<a href="https://lirhza.netlify.app/">
+  <button style="height: 40px; margin-left: 10px;">Personal Website</button>
 </a>
+
 
 <a href="#"><img align="right" src="https://i.pinimg.com/originals/19/8f/fb/198ffbfb445e8aeaf22ad6ca395b9c50.gif" width="300" height="250" /></a>
 
