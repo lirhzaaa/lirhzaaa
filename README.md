@@ -6,7 +6,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" />
 </a>
 <a href="https://www.instagram.com/devciell/" alt="Instagram" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" border-radius="10px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" />
 </a>
 
 <br />
