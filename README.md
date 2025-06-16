@@ -13,7 +13,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello,%20Welcome!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi!+I'm+Muhammad+Azhril+Nurmaulidan;🚀+Software+Engineer+%7C+Full-Stack+Developer;💡+Building+robust+%26+scalable+software;🎯+Passionate+about+engineering+excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi!+I'm+Muhammad+Azhril+Nurmaulidan;🚀+Software+Engineer+%7C+Full-Stack+Developer;�+Frontend+%26+Backend+Development;🎯+Passionate+about+clean+code+%26+innovation" alt="Typing SVG" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
