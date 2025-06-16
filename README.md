@@ -123,11 +123,30 @@
   <h2>🎯 Current Focus</h2>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding"/>
   
-  - 🌱 Currently learning **Advanced React Patterns & Microservices**
-  - 👯 Looking to collaborate on **Open Source Projects**
-  - 💬 Ask me about **Web Development, JavaScript, or any tech stuff**
-  - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
-  - 🎵 I code better with music 🎧
+  <br>
+  
+  <table align="center" style="border: none; max-width: 600px;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/🌱-Currently_Learning-667eea?style=for-the-badge&labelColor=000000" alt="Learning"/>
+        <br><small>Advanced React Patterns & Microservices</small>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/👯-Looking_to_Collaborate-f093fb?style=for-the-badge&labelColor=000000" alt="Collaborate"/>
+        <br><small>Open Source Projects</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/💬-Ask_Me_About-4facfe?style=for-the-badge&labelColor=000000" alt="Ask Me"/>
+        <br><small>Web Development & JavaScript</small>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/⚡-Fun_Fact-43e97b?style=for-the-badge&labelColor=000000" alt="Fun Fact"/>
+        <br><small>I debug with console.log() 🎵</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Inspirational Quote -->
