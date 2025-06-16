@@ -5,7 +5,7 @@
 
 <!-- Animated Welcome -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi!+I'm+Muhammad+Azhril+Nurmaulidan;🚀+Software+Engineer+%7C+Full-Stack+Developer;💡+Building+scalable+%26+innovative+solutions;🎯+Passionate+about+clean+code+%26+great+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi!+I'm+Muhammad+Azhril+Nurmaulidan;🚀+Software+Engineer+%7C+Problem+Solver;💡+Building+robust+%26+scalable+software;🎯+Passionate+about+engineering+excellence" alt="Typing SVG" />
 </div>
 
 <!-- Divider -->
@@ -20,9 +20,20 @@
   <h1>🚀 About Me</h1>
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
-    <p align="center" style="color: white; font-size: 18px; line-height: 1.6; margin: 0;">
-      <strong>Software Engineer</strong> passionate about creating innovative digital solutions.<br>
-      Specialized in <strong>Full-Stack Development</strong> with expertise in modern web technologies.
+    <p align="justify" style="color: white; font-size: 16px; line-height: 1.8; margin: 0;">
+      <strong>Software Engineer</strong> dengan passion mendalam dalam menciptakan solusi digital yang inovatif dan berdampak. Saya mengombinasikan kreativitas dengan technical expertise untuk membangun aplikasi yang tidak hanya functional, tetapi juga memberikan user experience yang exceptional.
+    </p>
+  </div>
+  
+  <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px; border: 1px solid rgba(255,255,255,0.2);">
+    <p align="justify" style="font-size: 16px; line-height: 1.8; margin: 0;">
+      <strong>💻 Technical Focus:</strong> Full-stack development dengan keahlian dari frontend modern (React, Next.js) hingga robust backend solutions (Node.js, Express, PHP, Laravel). Saya percaya pada principle <em>"write clean code, build great products"</em> dan selalu mengutamakan scalability, performance, dan maintainability dalam setiap project.
+    </p>
+  </div>
+  
+  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
+    <p align="justify" style="color: #333; font-size: 16px; line-height: 1.8; margin: 0;">
+      <strong>🎯 Philosophy:</strong> Technology should solve real problems and create meaningful impact. Saya continuously learning, contributing to open-source, dan berbagi knowledge dengan developer community. Let's build the future, one line of code at a time! 
     </p>
   </div>
 </div>
@@ -113,10 +124,10 @@
   <h2>🎯 Current Focus</h2>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding"/>
   
-  - 🌱 Currently learning **Advanced React Patterns & Microservices**
-  - 👯 Looking to collaborate on **Open Source Projects**
-  - 💬 Ask me about **Web Development, JavaScript, or any tech stuff**
-  - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+  - 🌱 Currently learning **System Design & Software Architecture**
+  - 👯 Looking to collaborate on **Innovative Software Solutions**
+  - 💬 Ask me about **Software Engineering, Full-Stack Development, or System Design**
+  - ⚡ Fun fact: **I believe clean code is poetry written for machines and humans!**
   - 🎵 I code better with music 🎧
 </div>
 
