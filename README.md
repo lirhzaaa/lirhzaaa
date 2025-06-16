@@ -48,7 +48,7 @@
   <a href="https://lirhza.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
   </a>
-  <a href="https://www.instagram.com/devciell/" target="_blank">
+  <a href="https://www.instagram.com/lirhzaaa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="#" target="_blank">
