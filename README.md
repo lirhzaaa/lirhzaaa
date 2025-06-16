@@ -9,7 +9,7 @@
 </div>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -57,7 +57,7 @@
 </div>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Skills Section -->
 <div align="center">
@@ -112,47 +112,29 @@
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0078D4" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B" alt="WordPress"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>  </div>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
+  </div>
 </div>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Current Focus & Goals -->
 <div align="center">
   <h2>🎯 Current Focus</h2>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding"/>
   
-  <br>
-  
-  <table align="center" style="border: none; max-width: 600px;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/🌱-Currently_Learning-667eea?style=for-the-badge&labelColor=000000" alt="Learning"/>
-        <br><small>Advanced React Patterns & Microservices</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/👯-Looking_to_Collaborate-f093fb?style=for-the-badge&labelColor=000000" alt="Collaborate"/>
-        <br><small>Open Source Projects</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/💬-Ask_Me_About-4facfe?style=for-the-badge&labelColor=000000" alt="Ask Me"/>
-        <br><small>Web Development & JavaScript</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/⚡-Fun_Fact-43e97b?style=for-the-badge&labelColor=000000" alt="Fun Fact"/>
-        <br><small>I debug with console.log() 🎵</small>
-      </td>
-    </tr>
-  </table>
+  - 🌱 Currently learning **Advanced React Patterns & Microservices**
+  - 👯 Looking to collaborate on **Open Source Projects**
+  - 💬 Ask me about **Web Development, JavaScript, or any tech stuff**
+  - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+  - 🎵 I code better with music 🎧
 </div>
 
 <!-- Inspirational Quote -->
 <div align="center" style="margin: 40px 0;">
-  <p><em>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."</em></p>
-  <p><strong>- Eric S. Raymond</strong></p>
+  <h2>💭 Developer Wisdom</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <!-- Footer -->
