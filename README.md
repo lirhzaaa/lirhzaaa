@@ -108,24 +108,6 @@
 
 <br/>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lirhzaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirhzaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </div>
-  
-  <br/>
-  
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lirhzaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=lirhzaaa&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
 <!-- Fun Section -->
 <div align="center">
   <h2>🎯 Current Focus</h2>
@@ -141,14 +123,4 @@
 <!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<!-- Contribution Activity -->
-<div align="center">
-  <h2>🐍 Contribution Activity</h2>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-  <!-- Alternative: GitHub Contribution Calendar -->
-  <h3>📅 Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/lirhzaaa" alt="GitHub Contribution Chart" width="90%" />
 </div>
