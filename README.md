@@ -12,8 +12,19 @@
 <!-- About Me Section -->
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding gif" />
-    <h2>🚀 About Me</h2>
-  <p><em>A passionate Software Engineer from Indonesia 🇮🇩</em></p>
+  
+  <h2>🚀 About Me</h2>
+  <p align="justify" style="max-width: 800px; margin: 0 auto; font-size: 16px; line-height: 1.6;">
+    <em>Hello! I'm Muhammad Azhril Nurmaulidan, a passionate Software Engineer from Indonesia with a deep love for creating innovative digital solutions. My journey in the world of technology began with curiosity and has evolved into a professional pursuit of excellence in software development.</em>
+  </p>
+  
+  <p align="justify" style="max-width: 800px; margin: 20px auto 0; font-size: 16px; line-height: 1.6;">
+    I specialize in full-stack development, with expertise spanning from frontend technologies like React and Next.js to backend solutions using Node.js, Express, PHP, and Laravel. I'm particularly drawn to creating seamless user experiences while ensuring robust and scalable backend architectures. My goal is to bridge the gap between creative design and functional programming, turning ideas into reality through clean, efficient code.
+  </p>
+  
+  <p align="justify" style="max-width: 800px; margin: 20px auto 0; font-size: 16px; line-height: 1.6;">
+    When I'm not coding, you'll find me exploring the latest web technologies, contributing to open-source projects, or sharing knowledge with the developer community. I believe in continuous learning and staying updated with the ever-evolving tech landscape. My approach to development is not just about writing code, but about solving real-world problems and creating meaningful digital experiences that make a difference.
+  </p>
 </div>
 
 <!-- Quick Facts -->
@@ -25,15 +36,6 @@
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-green?style=flat-square&logo=location&logoColor=white" alt="Location"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Education-SMK%20Wikrama%20Bogor-orange?style=flat-square&logo=school&logoColor=white" alt="Education"/>
-      </td>
-    </tr>    <tr>
       <td>
         <img src="https://img.shields.io/badge/Focus-Software%20Engineering-purple?style=flat-square&logo=code&logoColor=white" alt="Focus"/>
       </td>
@@ -84,11 +86,11 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-  <h3>Database & Cloud</h3>
+    <h3>Database & Cloud</h3>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   
   <h3>Tools & Others</h3>
