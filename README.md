@@ -161,8 +161,8 @@
 </div>
 
 <div align="center">
+  <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-    <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
   <div style="margin: 30px 0 10px 0; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 10px;">
     <p style="font-size: 12px; color: #888; margin: 0;">
       © 2025 Muhammad Azhril Nurmaulidan. All rights reserved.<br>
