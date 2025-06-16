@@ -34,30 +34,7 @@
   <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
     <p align="justify" style="color: #333; font-size: 16px; line-height: 1.8; margin: 0;">
       <strong>🎯 Philosophy:</strong> Technology should solve real problems and create meaningful impact. Saya continuously learning, contributing to open-source, dan berbagi knowledge dengan developer community. Let's build the future, one line of code at a time! 
-    </p>
-  </div>
-</div>
-
-<!-- Professional Stats -->
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/💼-Software_Engineer-2E8B57?style=for-the-badge&labelColor=000000" alt="Role"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/🎯-Full_Stack_Developer-FF6347?style=for-the-badge&labelColor=000000" alt="Specialization"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/📍-Indonesia_🇮🇩-4169E1?style=for-the-badge&labelColor=000000" alt="Location"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/☕-Coffee_to_Code_Converter-8B4513?style=for-the-badge&labelColor=000000" alt="Fun Fact"/>
-      </td>
-    </tr>
-  </table>
+    </p>  </div>
 </div>
 
 <!-- Social Links -->
@@ -146,37 +123,32 @@
 <div align="center">
   <h1>🎯 What I'm Up To</h1>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
-    
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
-      <h3>🌱 Currently Learning</h3>
-      <p>• Advanced React Patterns & Performance Optimization<br>
-      • Microservices Architecture with Node.js<br>
-      • Cloud Computing & DevOps Practices</p>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white;">
-      <h3>👯 Looking to Collaborate</h3>
-      <p>• Open Source Projects<br>
-      • Innovative Web Applications<br>
-      • Developer Tools & Utilities</p>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white;">
-      <h3>💬 Ask Me About</h3>
-      <p>• Full-Stack Web Development<br>
-      • JavaScript & Modern Frameworks<br>
-      • System Architecture & Design</p>
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white;">
-      <h3>⚡ Fun Facts</h3>
-      <p>• I debug with console.log() and proud of it!<br>
-      • Coffee-powered coding sessions 🎧<br>
-      • Always listening to music while coding</p>
-    </div>
-    
-  </div>
+  <table align="center" style="border: none; max-width: 900px;">
+    <tr>
+      <td align="center" style="padding: 15px; width: 50%;">
+        <img src="https://img.shields.io/badge/🌱_Currently_Learning-Advanced_React_&_Microservices-667eea?style=for-the-badge&labelColor=000000" alt="Learning"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/💬_Ask_Me_About-Full--Stack_Development-4facfe?style=for-the-badge&labelColor=000000" alt="Ask Me"/>
+      </td>
+      <td align="center" style="padding: 15px; width: 50%;">
+        <img src="https://img.shields.io/badge/👯_Looking_to_Collaborate-Open_Source_Projects-f093fb?style=for-the-badge&labelColor=000000" alt="Collaborate"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/⚡_Fun_Fact-Coffee_Powered_Coder-43e97b?style=for-the-badge&labelColor=000000" alt="Fun Fact"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <p><strong>📚 Current Learning Focus:</strong></p>
+  <p>• Advanced React Patterns & Performance Optimization<br>
+  • Microservices Architecture with Node.js<br>
+  • Cloud Computing & DevOps Practices</p>
+  
+  <p><strong>🚀 Open for Collaboration:</strong></p>
+  <p>• Open Source Projects<br>
+  • Innovative Web Applications<br>
+  • Developer Tools & Utilities</p>
 </div>
 
 <!-- Inspirational Quote -->
