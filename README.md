@@ -20,20 +20,11 @@
   <h1>🚀 About Me</h1>
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
-    <p align="justify" style="color: white; font-size: 16px; line-height: 1.8; margin: 0;">
-      <strong>Software Engineer</strong> dengan passion mendalam dalam menciptakan solusi digital yang inovatif dan berdampak. Saya mengombinasikan kreativitas dengan technical expertise untuk membangun aplikasi yang tidak hanya functional, tetapi juga memberikan user experience yang exceptional.
+    <p align="center" style="color: white; font-size: 18px; line-height: 1.6; margin: 0;">
+      <strong>Software Engineer</strong> passionate about creating innovative digital solutions.<br>
+      Specialized in <strong>Full-Stack Development</strong> with expertise in modern web technologies.
     </p>
   </div>
-    <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px; border: 1px solid rgba(255,255,255,0.2);">
-    <p align="justify" style="font-size: 16px; line-height: 1.8; margin: 0;">
-      <strong>💻 Technical Focus:</strong> Full-stack development dengan keahlian dari frontend modern (React, Next.js) hingga robust backend solutions (Node.js, Express, PHP, Laravel). Saya juga specialized dalam <strong>Laravel full-stack development</strong> - menggunakan Laravel untuk backend API sekaligus frontend dengan Blade templating, membuat development process yang integrated dan efficient. Saya percaya pada principle <em>"write clean code, build great products"</em> dan selalu mengutamakan scalability, performance, dan maintainability dalam setiap project.
-    </p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
-    <p align="justify" style="color: #333; font-size: 16px; line-height: 1.8; margin: 0;">
-      <strong>🎯 Philosophy:</strong> Technology should solve real problems and create meaningful impact. Saya continuously learning, contributing to open-source, dan berbagi knowledge dengan developer community. Let's build the future, one line of code at a time! 
-    </p>  </div>
 </div>
 
 <!-- Social Links -->
@@ -138,38 +129,7 @@
     </p>
     <p style="color: #e0e0e0; font-size: 14px; margin: 10px 0 0 0;">
       — Steve Jobs, Co-founder of Apple
-    </p>
-  </div>
-</div>
-
-<!-- Full-Stack Development Approaches -->
-<div align="center">
-  <h2>🔄 Full-Stack Development Approaches</h2>
-  
-  <table align="center" style="border: none; max-width: 800px;">
-    <tr>
-      <td align="center" style="padding: 20px; width: 50%;">
-        <h3>🚀 Modern Stack (MERN/PERN)</h3>
-        <p><strong>Frontend:</strong> React + Next.js</p>
-        <p><strong>Backend:</strong> Node.js + Express</p>
-        <p><strong>Database:</strong> MongoDB/PostgreSQL</p>
-        <p><em>Microservices & API-first approach</em></p>
-      </td>
-      <td align="center" style="padding: 20px; width: 50%;">
-        <h3>⚡ Laravel Full-Stack</h3>
-        <p><strong>Frontend:</strong> Laravel Blade + Livewire</p>
-        <p><strong>Backend:</strong> Laravel Framework</p>
-        <p><strong>Database:</strong> MySQL/PostgreSQL</p>
-        <p><em>Integrated monolithic approach</em></p>
-      </td>
-    </tr>
-  </table>
-  
-  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 750px;">
-    <p style="color: #333; font-size: 16px; margin: 0;">
-      <strong>🎯 Specialized in Laravel Full-Stack:</strong> Memanfaatkan kekuatan Laravel untuk membangun aplikasi complete dari frontend hingga backend dalam satu ecosystem yang terintegrasi, menggunakan Blade templating, Livewire untuk reactivity, dan Laravel's powerful backend features.
-    </p>
-  </div>
+    </p>  </div>
 </div>
 
 <!-- Footer -->
