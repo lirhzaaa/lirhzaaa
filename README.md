@@ -121,34 +121,14 @@
 
 <!-- Current Focus & Goals -->
 <div align="center">
-  <h1>🎯 What I'm Up To</h1>
+  <h2>🎯 Current Focus</h2>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding"/>
   
-  <table align="center" style="border: none; max-width: 900px;">
-    <tr>
-      <td align="center" style="padding: 15px; width: 50%;">
-        <img src="https://img.shields.io/badge/🌱_Currently_Learning-Advanced_React_&_Microservices-667eea?style=for-the-badge&labelColor=000000" alt="Learning"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/💬_Ask_Me_About-Full--Stack_Development-4facfe?style=for-the-badge&labelColor=000000" alt="Ask Me"/>
-      </td>
-      <td align="center" style="padding: 15px; width: 50%;">
-        <img src="https://img.shields.io/badge/👯_Looking_to_Collaborate-Open_Source_Projects-f093fb?style=for-the-badge&labelColor=000000" alt="Collaborate"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/⚡_Fun_Fact-Coffee_Powered_Coder-43e97b?style=for-the-badge&labelColor=000000" alt="Fun Fact"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <p><strong>📚 Current Learning Focus:</strong></p>
-  <p>• Advanced React Patterns & Performance Optimization<br>
-  • Microservices Architecture with Node.js<br>
-  • Cloud Computing & DevOps Practices</p>
-  
-  <p><strong>🚀 Open for Collaboration:</strong></p>
-  <p>• Open Source Projects<br>
-  • Innovative Web Applications<br>
-  • Developer Tools & Utilities</p>
+  - 🌱 Currently learning **Advanced React Patterns & Microservices**
+  - 👯 Looking to collaborate on **Open Source Projects**
+  - 💬 Ask me about **Web Development, JavaScript, or any tech stuff**
+  - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+  - 🎵 I code better with music 🎧
 </div>
 
 <!-- Inspirational Quote -->
