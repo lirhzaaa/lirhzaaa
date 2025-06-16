@@ -132,13 +132,8 @@
 
 <!-- Inspirational Quote -->
 <div align="center" style="margin: 40px 0;">
-  <p><em>"Innovation distinguishes between a leader and a follower. Technology is nothing without the right team to execute it."</em></p>
-  <p><strong>- Steve Jobs</strong></p>
-  
-  <br>
-  
-  <p><em>"The best way to predict the future is to invent it."</em></p>
-  <p><strong>- Alan Kay</strong></p>
+  <p><em>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."</em></p>
+  <p><strong>- Eric S. Raymond</strong></p>
 </div>
 
 <!-- Footer -->
