@@ -9,22 +9,14 @@
 ████████████████████████████████████████████████████████████████████
 -->
 
-<!-- Banner Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello,%20Welcome!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
-
-<!-- Animated Welcome -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1500&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi!+I'm+Muhammad+Azhril+Nurmaulidan;🚀+Software+Engineer+%7C+Problem+Solver;💡+Building+robust+%26+scalable+software;🎯+Passionate+about+engineering+excellence" alt="Typing SVG" />
 </div>
-
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
-
-<!-- About Me Section -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
   
@@ -47,8 +39,6 @@
     </p>
   </div>
 </div>
-
-<!-- Social Links -->
 <div align="center">
   <h2>🤝 Let's Connect & Collaborate</h2>
   <p><em>Always open for interesting conversations and opportunities!</em></p>
@@ -65,17 +55,11 @@
     <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4" alt="CV"/>
   </a>
 </div>
-
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Skills Section -->
 <div align="center">
   <h1>🛠️ Tech & Tools</h1>
   <p><em>Technologies I use to bring ideas to life</em></p>
 </div>
-
-<!-- Frontend -->
 <div align="center">
   <h3>🎨 Frontend Development</h3>  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
@@ -88,8 +72,6 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind CSS"/>
   </div>
 </div>
-
-<!-- Backend -->
 <div align="center">
   <h3>⚙️ Backend Development</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
@@ -100,8 +82,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
   </div>
 </div>
-
-<!-- Database & Cloud -->
 <div align="center">
   <h3>🗄️ Database & Cloud Services</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
@@ -112,8 +92,6 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" alt="Netlify"/>
   </div>
 </div>
-
-<!-- Tools -->
 <div align="center">
   <h3>🛠️ Development Tools</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
@@ -125,11 +103,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
   </div>
 </div>
-
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Current Focus & Goals -->
 <div align="center">
   <h2>🎯 Current Focus</h2>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding"/>
@@ -140,12 +114,8 @@
   - ⚡ Fun fact: **I believe clean code is poetry written for machines and humans!**
   - 🎵 I code better with music 🎧
 </div>
-
-<!-- Inspirational Quote -->
 <div align="center" style="margin: 40px 0;">
   <h2>💭 Inspirational Wisdom</h2>
-  
-  <!-- Steve Jobs Quote -->
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px auto; max-width: 700px;">
     <p style="color: white; font-size: 18px; font-style: italic; margin: 0; line-height: 1.6;">
       "Innovation distinguishes between a leader and a follower."
@@ -154,8 +124,6 @@
       — Steve Jobs, Co-founder of Apple
     </p>
   </div>
-  
-  <!-- Grid of 3 Additional Quotes -->
   <table align="center" style="border: none; max-width: 1000px; margin: 20px auto;">
     <tr>
       <td align="center" style="padding: 10px; width: 33.33%;">
@@ -192,12 +160,9 @@
   </table>
 </div>
 
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
     <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
-  
-  <!-- Copyright Notice -->
   <div style="margin: 30px 0 10px 0; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 10px;">
     <p style="font-size: 12px; color: #888; margin: 0;">
       © 2025 Muhammad Azhril Nurmaulidan. All rights reserved.<br>
