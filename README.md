@@ -5,7 +5,7 @@
 
 <!-- Animated Welcome -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Muhammad+Azhril+Nurmaulidan;Full-Stack+Developer+from+Indonesia;Passionate+about+creating+amazing+experiences!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Muhammad+Azhril+Nurmaulidan;Software+Engineer+from+Indonesia;Passionate+about+creating+amazing+experiences!" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
@@ -18,29 +18,38 @@
 <!-- About Me Section -->
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding gif" />
-  
-  <h2>🚀 About Me</h2>
-  <p><em>A passionate Full-Stack Developer from Indonesia 🇮🇩</em></p>
+    <h2>🚀 About Me</h2>
+  <p><em>A passionate Software Engineer from Indonesia 🇮🇩</em></p>
 </div>
 
 <!-- Quick Facts -->
 <div align="center">
-  
-```typescript
-class Developer {
-  name: string = "Muhammad Azhril Nurmaulidan";
-  location: string = "Indonesia 🇮🇩";
-  education: string = "SMK Wikrama Bogor";
-  focus: string[] = ["Full-Stack Development", "Web Technologies"];
-  pronouns: string = "Lirhza";
-  funFact: string = "I turn coffee into code ☕️";
-  
-  getCurrentStatus(): string {
-    return "Learning new technologies and building awesome projects!";
-  }
-}
-```
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Name-Muhammad%20Azhril%20Nurmaulidan-blue?style=flat-square&logo=user&logoColor=white" alt="Name"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-green?style=flat-square&logo=location&logoColor=white" alt="Location"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Education-SMK%20Wikrama%20Bogor-orange?style=flat-square&logo=school&logoColor=white" alt="Education"/>
+      </td>
+    </tr>    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Focus-Software%20Engineering-purple?style=flat-square&logo=code&logoColor=white" alt="Focus"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Fun%20Fact-I%20turn%20coffee%20into%20code%20☕-brown?style=flat-square&logo=coffee&logoColor=white" alt="Fun Fact"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Social Links -->
@@ -104,13 +113,17 @@ class Developer {
   <h2>📊 GitHub Analytics</h2>
   
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lirhzaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirhzaaa&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lirhzaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirhzaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </div>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lirhzaaa&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lirhzaaa&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lirhzaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=lirhzaaa&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <!-- Fun Section -->
@@ -130,8 +143,12 @@ class Developer {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<!-- Snake Animation -->
+<!-- Contribution Activity -->
 <div align="center">
-  <h2>🐍 Watch my contribution graph get eaten by the snake!</h2>
-  <img src="https://raw.githubusercontent.com/lirhzaaa/lirhzaaa/output/snake.svg" alt="Snake animation" />
+  <h2>🐍 Contribution Activity</h2>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <!-- Alternative: GitHub Contribution Calendar -->
+  <h3>📅 Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/lirhzaaa" alt="GitHub Contribution Chart" width="90%" />
 </div>
