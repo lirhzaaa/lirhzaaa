@@ -9,7 +9,7 @@
 </div>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 <br/>
 
@@ -57,7 +57,7 @@
 </div>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 <!-- Skills Section -->
 <div align="center">
@@ -116,43 +116,29 @@
 </div>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 <!-- Current Focus & Goals -->
 <div align="center">
   <h2>🎯 Current Focus</h2>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding"/>
   
-  <br>
-  
-  <table align="center" style="border: none; max-width: 600px;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/🌱-Currently_Learning-667eea?style=for-the-badge&labelColor=000000" alt="Learning"/>
-        <br><small>Advanced React Patterns & Microservices</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/👯-Looking_to_Collaborate-f093fb?style=for-the-badge&labelColor=000000" alt="Collaborate"/>
-        <br><small>Open Source Projects</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/💬-Ask_Me_About-4facfe?style=for-the-badge&labelColor=000000" alt="Ask Me"/>
-        <br><small>Web Development & JavaScript</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/⚡-Fun_Fact-43e97b?style=for-the-badge&labelColor=000000" alt="Fun Fact"/>
-        <br><small>I debug with console.log() 🎵</small>
-      </td>
-    </tr>
-  </table>
+  - 🌱 Currently learning **Advanced React Patterns & Microservices**
+  - 👯 Looking to collaborate on **Open Source Projects**
+  - 💬 Ask me about **Web Development, JavaScript, or any tech stuff**
+  - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+  - 🎵 I code better with music 🎧
 </div>
 
 <!-- Inspirational Quote -->
 <div align="center" style="margin: 40px 0;">
-  <p><em>"Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."</em></p>
-  <p><strong>- Eric S. Raymond</strong></p>
+  <p><em>"Innovation distinguishes between a leader and a follower. Technology is nothing without the right team to execute it."</em></p>
+  <p><strong>- Steve Jobs</strong></p>
+  
+  <br>
+  
+  <p><em>"The best way to predict the future is to invent it."</em></p>
+  <p><strong>- Alan Kay</strong></p>
 </div>
 
 <!-- Footer -->
