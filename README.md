@@ -1,3 +1,14 @@
+<!-- 
+████████████████████████████████████████████████████████████████████
+██                                                                ██
+██  © 2025 Muhammad Azhril Nurmaulidan - lirhzaaa                 ██
+██  This README.md is protected by copyright.                     ██
+██  Unauthorized copying or modification is prohibited.           ██
+██  Original design created exclusively for github.com/lirhzaaa   ██
+██                                                                ██
+████████████████████████████████████████████████████████████████████
+-->
+
 <!-- Banner Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello,%20Welcome!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
@@ -156,9 +167,16 @@
     </p>
     <p style="font-style: italic; color: #666; margin: 8px 0;">
       <strong>"When something is important enough, you do it even if the odds are not in your favor."</strong> — Elon Musk
-    </p>
-    <p style="font-style: italic; color: #666; margin: 8px 0;">
+    </p>    <p style="font-style: italic; color: #666; margin: 8px 0;">
       <strong>"It takes 20 years to build a reputation and five minutes to ruin it."</strong> — Warren Buffett
+    </p>
+  </div>
+  
+  <!-- Copyright Notice -->
+  <div style="margin: 30px 0 10px 0; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 10px;">
+    <p style="font-size: 12px; color: #888; margin: 0;">
+      © 2025 Muhammad Azhril Nurmaulidan. All rights reserved.<br>
+      This profile design and content are protected by copyright. Unauthorized copying, distribution, or modification is prohibited.
     </p>
   </div>
 </div>
