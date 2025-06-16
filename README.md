@@ -24,10 +24,9 @@
       <strong>Software Engineer</strong> dengan passion mendalam dalam menciptakan solusi digital yang inovatif dan berdampak. Saya mengombinasikan kreativitas dengan technical expertise untuk membangun aplikasi yang tidak hanya functional, tetapi juga memberikan user experience yang exceptional.
     </p>
   </div>
-  
-  <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px; border: 1px solid rgba(255,255,255,0.2);">
+    <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px; border: 1px solid rgba(255,255,255,0.2);">
     <p align="justify" style="font-size: 16px; line-height: 1.8; margin: 0;">
-      <strong>💻 Technical Focus:</strong> Full-stack development dengan keahlian dari frontend modern (React, Next.js) hingga robust backend solutions (Node.js, Express, PHP, Laravel). Saya percaya pada principle <em>"write clean code, build great products"</em> dan selalu mengutamakan scalability, performance, dan maintainability dalam setiap project.
+      <strong>💻 Technical Focus:</strong> Full-stack development dengan keahlian dari frontend modern (React, Next.js) hingga robust backend solutions (Node.js, Express, PHP, Laravel). Saya juga specialized dalam <strong>Laravel full-stack development</strong> - menggunakan Laravel untuk backend API sekaligus frontend dengan Blade templating, membuat development process yang integrated dan efficient. Saya percaya pada principle <em>"write clean code, build great products"</em> dan selalu mengutamakan scalability, performance, dan maintainability dalam setiap project.
     </p>
   </div>
   
@@ -41,17 +40,16 @@
 <div align="center">
   <h2>🤝 Let's Connect & Collaborate</h2>
   <p><em>Always open for interesting conversations and opportunities!</em></p>
-  
-  <a href="https://www.linkedin.com/in/azhril-nurmaulidan" target="_blank">
+    <a href="https://www.linkedin.com/in/azhril-nurmaulidan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://lirhza.netlify.app/" target="_blank">
+  <a href="https://lirhza.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
   </a>
   <a href="https://www.instagram.com/devciell/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="https://www.cakeresume.com/pdf/s--JBLL-xiAvdswav2fdEjqgw--/NajGx.pdf" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4" alt="CV"/>
   </a>
 </div>
@@ -61,19 +59,19 @@
 
 <!-- Skills Section -->
 <div align="center">
-  <h1>⚡ Tech Arsenal</h1>
+  <h1>🛠️ Tech & Tools</h1>
   <p><em>Technologies I use to bring ideas to life</em></p>
 </div>
 
 <!-- Frontend -->
 <div align="center">
-  <h3>🎨 Frontend Development</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <h3>🎨 Frontend Development</h3>  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel Blade"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind CSS"/>
   </div>
@@ -133,8 +131,45 @@
 
 <!-- Inspirational Quote -->
 <div align="center" style="margin: 40px 0;">
-  <h2>💭 Developer Wisdom</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <h2>💭 Inspirational Wisdom</h2>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px auto; max-width: 700px;">
+    <p style="color: white; font-size: 18px; font-style: italic; margin: 0; line-height: 1.6;">
+      "Innovation distinguishes between a leader and a follower."
+    </p>
+    <p style="color: #e0e0e0; font-size: 14px; margin: 10px 0 0 0;">
+      — Steve Jobs, Co-founder of Apple
+    </p>
+  </div>
+</div>
+
+<!-- Full-Stack Development Approaches -->
+<div align="center">
+  <h2>🔄 Full-Stack Development Approaches</h2>
+  
+  <table align="center" style="border: none; max-width: 800px;">
+    <tr>
+      <td align="center" style="padding: 20px; width: 50%;">
+        <h3>🚀 Modern Stack (MERN/PERN)</h3>
+        <p><strong>Frontend:</strong> React + Next.js</p>
+        <p><strong>Backend:</strong> Node.js + Express</p>
+        <p><strong>Database:</strong> MongoDB/PostgreSQL</p>
+        <p><em>Microservices & API-first approach</em></p>
+      </td>
+      <td align="center" style="padding: 20px; width: 50%;">
+        <h3>⚡ Laravel Full-Stack</h3>
+        <p><strong>Frontend:</strong> Laravel Blade + Livewire</p>
+        <p><strong>Backend:</strong> Laravel Framework</p>
+        <p><strong>Database:</strong> MySQL/PostgreSQL</p>
+        <p><em>Integrated monolithic approach</em></p>
+      </td>
+    </tr>
+  </table>
+  
+  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 750px;">
+    <p style="color: #333; font-size: 16px; margin: 0;">
+      <strong>🎯 Specialized in Laravel Full-Stack:</strong> Memanfaatkan kekuatan Laravel untuk membangun aplikasi complete dari frontend hingga backend dalam satu ecosystem yang terintegrasi, menggunakan Blade templating, Livewire untuk reactivity, dan Laravel's powerful backend features.
+    </p>
+  </div>
 </div>
 
 <!-- Footer -->
@@ -142,5 +177,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
   
   <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
-  <p><em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em></p>
+  
+  <!-- Additional Inspirational Quotes -->
+  <div style="margin: 20px 0;">
+    <p style="font-style: italic; color: #666; margin: 8px 0;">
+      <strong>"The biggest risk is not taking any risk."</strong> — Mark Zuckerberg
+    </p>
+    <p style="font-style: italic; color: #666; margin: 8px 0;">
+      <strong>"When something is important enough, you do it even if the odds are not in your favor."</strong> — Elon Musk
+    </p>
+    <p style="font-style: italic; color: #666; margin: 8px 0;">
+      <strong>"It takes 20 years to build a reputation and five minutes to ruin it."</strong> — Warren Buffett
+    </p>
+  </div>
 </div>
