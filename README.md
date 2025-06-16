@@ -29,22 +29,21 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
   
   <h1>🚀 About Me</h1>
-  
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
     <p align="justify" style="color: white; font-size: 16px; line-height: 1.8; margin: 0;">
-      <strong>Software Engineer</strong> dengan passion mendalam dalam menciptakan solusi digital yang inovatif dan berdampak. Saya mengombinasikan kreativitas dengan technical expertise untuk membangun aplikasi yang tidak hanya functional, tetapi juga memberikan user experience yang exceptional.
+      <strong>Software Engineer</strong> with a deep passion for creating innovative and impactful digital solutions. I combine creativity with technical expertise to build applications that are not only functional, but also deliver exceptional user experiences.
     </p>
   </div>
   
   <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px; border: 1px solid rgba(255,255,255,0.2);">
     <p align="justify" style="font-size: 16px; line-height: 1.8; margin: 0;">
-      <strong>💻 Technical Focus:</strong> Full-stack development dengan keahlian dari frontend modern (React, Next.js) hingga robust backend solutions (Node.js, Express, PHP, Laravel). Saya percaya pada principle <em>"write clean code, build great products"</em> dan selalu mengutamakan scalability, performance, dan maintainability dalam setiap project.
+      <strong>💻 Technical Focus:</strong> Full-stack development with expertise ranging from modern frontend technologies (React, Next.js) to robust backend solutions (Node.js, Express, PHP, Laravel). I believe in the principle <em>"write clean code, build great products"</em> and always prioritize scalability, performance, and maintainability in every project.
     </p>
   </div>
   
   <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 850px;">
     <p align="justify" style="color: #333; font-size: 16px; line-height: 1.8; margin: 0;">
-      <strong>🎯 Philosophy:</strong> Technology should solve real problems and create meaningful impact. Saya continuously learning, contributing to open-source, dan berbagi knowledge dengan developer community. Let's build the future, one line of code at a time! 
+      <strong>🎯 Philosophy:</strong> Technology should solve real problems and create meaningful impact. I'm continuously learning, contributing to open-source, and sharing knowledge with the developer community. Let's build the future, one line of code at a time! 
     </p>
   </div>
 </div>
@@ -145,32 +144,58 @@
 <!-- Inspirational Quote -->
 <div align="center" style="margin: 40px 0;">
   <h2>💭 Inspirational Wisdom</h2>
+  
+  <!-- Steve Jobs Quote -->
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; margin: 20px auto; max-width: 700px;">
     <p style="color: white; font-size: 18px; font-style: italic; margin: 0; line-height: 1.6;">
       "Innovation distinguishes between a leader and a follower."
     </p>
     <p style="color: #e0e0e0; font-size: 14px; margin: 10px 0 0 0;">
       — Steve Jobs, Co-founder of Apple
-    </p>  </div>
+    </p>
+  </div>
+  
+  <!-- Grid of 3 Additional Quotes -->
+  <table align="center" style="border: none; max-width: 1000px; margin: 20px auto;">
+    <tr>
+      <td align="center" style="padding: 10px; width: 33.33%;">
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; height: 120px; display: flex; flex-direction: column; justify-content: center;">
+          <p style="font-size: 14px; font-style: italic; margin: 0; line-height: 1.4;">
+            "The biggest risk is not taking any risk."
+          </p>
+          <p style="font-size: 11px; margin: 8px 0 0 0; opacity: 0.9;">
+            — Mark Zuckerberg
+          </p>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px; width: 33.33%;">
+        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; height: 120px; display: flex; flex-direction: column; justify-content: center;">
+          <p style="font-size: 14px; font-style: italic; margin: 0; line-height: 1.4;">
+            "When something is important enough, you do it even if the odds are not in your favor."
+          </p>
+          <p style="font-size: 11px; margin: 8px 0 0 0; opacity: 0.9;">
+            — Elon Musk
+          </p>
+        </div>
+      </td>
+      <td align="center" style="padding: 10px; width: 33.33%;">
+        <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white; height: 120px; display: flex; flex-direction: column; justify-content: center;">
+          <p style="font-size: 14px; font-style: italic; margin: 0; line-height: 1.4;">
+            "It takes 20 years to build a reputation and five minutes to ruin it."
+          </p>
+          <p style="font-size: 11px; margin: 8px 0 0 0; opacity: 0.9;">
+            — Warren Buffett
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-  
-  <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
-  
-  <!-- Additional Inspirational Quotes -->
-  <div style="margin: 20px 0;">
-    <p style="font-style: italic; color: #666; margin: 8px 0;">
-      <strong>"The biggest risk is not taking any risk."</strong> — Mark Zuckerberg
-    </p>
-    <p style="font-style: italic; color: #666; margin: 8px 0;">
-      <strong>"When something is important enough, you do it even if the odds are not in your favor."</strong> — Elon Musk
-    </p>    <p style="font-style: italic; color: #666; margin: 8px 0;">
-      <strong>"It takes 20 years to build a reputation and five minutes to ruin it."</strong> — Warren Buffett
-    </p>
-  </div>
+    <h3>Thanks for visiting! Let's build something amazing together! 🚀</h3>
   
   <!-- Copyright Notice -->
   <div style="margin: 30px 0 10px 0; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 10px;">
