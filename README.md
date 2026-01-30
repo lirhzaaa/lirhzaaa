@@ -1,18 +1,8 @@
 <div align="center">
   <img 
-    src="https://tenor.com/ufDTzPDroye.gif" 
-    alt="Banner" 
-    style="width:100%; max-height:300px; object-fit:cover;"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
     src="https://media1.tenor.com/m/LRryXQAHFVkAAAAd/one-piece.gif" 
-    alt="One Piece" 
-    width="120"
+    alt="One Piece"
+    width=250
   />
 </div>
 
@@ -47,32 +37,27 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"/>
 </div>
 
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
-</div>
-
-
-<!-- Stats -->
-<!-- <hr/>
-<div align="center">
-    <img src="https://rosfandy-stats.vercel.app/api?username=rosfandy&theme=tokyonight" />
-</div>
- -->
 ## Profile
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosfandy&theme=tokyonight" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lirhzaaa&theme=tokyonight" alt="Profile Details" />
 
 ## Activity Stats
 <div style="display:flex">  
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rosfandy&theme=tokyonight" alt="Most Commit Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosfandy&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lirhzaaa&theme=tokyonight" alt="Most Commit Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lirhzaaa&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 </div>
 
-<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rosfandy&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
 ## Contribution Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rosfandy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lirhzaaa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+---
+<p align="center">
+  <i>"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke</i>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to invent it." - Alan Kay</i>
+</p>
+
+<p align="center">
+  <b>From <a href="https://github.com/lirhzaaa">lirhzaaa</a> with ☕</b>
+</p>
