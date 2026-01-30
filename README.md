@@ -10,8 +10,8 @@
 
 <div align="center">
   <img 
-    src="https://tenor.com/bxPQc.gif" 
-    alt="Penguin" 
+    src="https://media1.tenor.com/m/LRryXQAHFVkAAAAd/one-piece.gif" 
+    alt="One Piece" 
     width="120"
   />
 </div>
